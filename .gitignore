@@ -29,6 +29,6 @@ bin/
 .DS_Store
 
 .idea
-gitProject02.iml
+MarsProject.iml
 out
 
